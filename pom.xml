@@ -17,6 +17,8 @@
 
 	<dependencies>
 	
+	<!-- test -->
+	
 			<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 		<dependency>
 			<groupId>io.cucumber</groupId>
