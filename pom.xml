@@ -17,7 +17,7 @@
 
 	<dependencies>
 	
-	<!-- mq -->
+	<!-- mq test -->
 	
 			<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 		<dependency>
